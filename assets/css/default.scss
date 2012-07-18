@@ -1,0 +1,123 @@
+@charset "iso-8859-1";
+
+// Color definitions
+$color_base: #ffffff;
+$color_offbase1: #808080;
+$color_offbase2: #505050;
+$color_accent: #b0000e;
+$color_highlight: #ffaaff;
+$color_text: #202020;
+
+// Layout definitions
+$basemargin: 1em;
+$basepadding: 0.5em;
+
+// Font definitions
+$font_serif: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+$font_sans: "Lato";
+
+body 	
+{
+  background-color: $color_base; 
+  color: $color_text;
+  font-family: $font_serif;
+  position: relative; // So children can be absolute
+  max-width: 700px;
+  margin-left: auto; // Centering
+  margin-right: auto;
+}
+
+h1
+{
+  color: $color_accent;
+  font-family: $font_sans;
+  font-size: 20px;
+}
+
+h2
+{
+  font-family: $font_sans;
+  font-size: 18px;
+}
+
+a
+{
+  color: $color_accent;
+  text-decoration: none;
+}
+
+a:hover
+{
+  text-decoration: underline;
+}
+
+hr
+{
+  color: $color_offbase1;
+  background-color: $color_offbase1;
+  border: 0px;
+  height: 2px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+#title
+{
+  display: inline;
+  color: $color_accent;
+  font-family: $font_sans;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+#nav
+{
+  display: inline;
+  position: absolute;
+  right: 0px;
+  top: 1em; // A hack to roughly align with the title
+  color: $color_offbase2;
+  font-family: $font_sans;
+
+  a {
+    color: $color_offbase2;
+  }
+
+}
+
+#content
+{
+  width: 80%;
+}
+
+.postinfo
+{
+  font-size: 12px;
+  font-family: $font_sans;
+}
+
+#postlinks
+{
+  position: relative; // So children are relative to this
+  font-size: 12px;
+  font-family: $font_sans;
+  height: 1em; // Have to reserve space since children are absolute
+
+  .previouslink {
+    position: absolute;
+    left: 0px;
+  }
+
+  .nextlink {
+    position: absolute;
+    right: 0px;
+  }
+}
+
+
+#footer
+{
+  font-size: 10px;
+  font-family: $font_sans;
+}
+
