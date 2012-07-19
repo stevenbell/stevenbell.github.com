@@ -88,6 +88,10 @@ hr
 #content
 {
   width: 80%;
+  img {
+    position: relative;
+    left: 1em;
+  }
 }
 
 .postinfo

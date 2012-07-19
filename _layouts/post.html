@@ -4,7 +4,7 @@ layout: page
 <h1>{{ page.title }}</h1>
 
 <div class="postinfo">
-  Posted {{ page.date | date_to_string }}
+  Posted {{ page.date | date: "%A %B %d, %Y" }}
 </div>
 
 {{ content }}

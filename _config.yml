@@ -1,0 +1,3 @@
+# Jekyll configuration
+permalink: /:year-:month-:day/:title/
+
