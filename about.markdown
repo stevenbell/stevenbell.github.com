@@ -14,11 +14,9 @@ The easiest way to contact me is by email: sebell _ stanford _ edu.  You can als
 # About this site
 This site is an attempt to pull together my many projects, ideas, and writings, and fill a role that a blog or Facebook can't.
 
-On the technical side, the site is hosted on [GitHub Pages](http://pages.github.com), using [Jekyll](http://jekyllrb.com/) to produce static HTML.  You can read a little more about the development process in my TODO BLOG POST
-{ post_url 2012-07-08-building-the-site } .
+On the technical side, the site is hosted on [GitHub Pages](http://pages.github.com), using [Jekyll](http://jekyllrb.com/) to produce static HTML.  You can read a little more about the development process in my [blog post](/2012-07-17/building-the-site/).
+
 
 I've tried a variety of setups in the past, including plain-vanilla HTML, a custom PHP setup, and [Jemdoc](http://jemdoc.jaboc.net/).  I'm also attracted to the ease-of-use that WordPress offers, but right now I really like the simplicity of plain text and the idea of having my website be a version-controlled repository.  If you want to see the source, [here it is](https://github.com/stevenbell/stevenbell.github.com).
-
-
 
 
