@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="170"
+   height="470"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="gears3.svg"
+   inkscape:export-filename="/home/steven/Desktop/gears3.png"
+   inkscape:export-xdpi="153.19148"
+   inkscape:export-ydpi="153.19148">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path3914"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3911"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="106.53613"
+     inkscape:cy="285.70021"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="828"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-530)">
+    <rect
+       style="fill:#787878;fill-opacity:0.31192663;stroke:none"
+       id="rect3103-6"
+       width="20"
+       height="171"
+       x="80"
+       y="650.64001" />
+    <rect
+       style="fill:#787878;fill-opacity:0.31192663;stroke:none"
+       id="rect3103-5"
+       width="20"
+       height="207"
+       x="60"
+       y="733.64001" />
+    <rect
+       style="fill:#787878;fill-opacity:0.31192663;stroke:none"
+       id="rect3103"
+       width="20"
+       height="112"
+       x="100"
+       y="592.64001" />
+    <g
+       id="g4544"
+       style="fill:#46ad00;fill-opacity:1"
+       transform="matrix(0.4,0,0,1,80,503.64001)">
+      <rect
+         id="rect8"
+         y="87.5"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#46ad00;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect10"
+         y="107.69"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#46ad00;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect14"
+         y="133.33"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#46ad00;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect20"
+         y="155.56"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#46ad00;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect22"
+         y="175"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#46ad00;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect28"
+         y="200"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#46ad00;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect34"
+         y="233.33"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#46ad00;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect38"
+         y="254.55"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#46ad00;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g4554"
+       style="fill:#ed9b00;fill-opacity:1"
+       transform="matrix(0.4,0,0,1,60,503.64001)">
+      <rect
+         id="rect12"
+         y="118.75"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#ed9b00;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect16"
+         y="146.14999"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#ed9b00;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect24"
+         y="180.95"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#ed9b00;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect30"
+         y="211.11"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#ed9b00;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect36"
+         y="237.5"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#ed9b00;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect42"
+         y="271.42999"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#ed9b00;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect46"
+         y="316.67001"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#ed9b00;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect50"
+         y="345.45001"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#ed9b00;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g4534"
+       style="fill:#db1212;fill-opacity:1"
+       transform="matrix(0.4,0,0,1,40,503.64001)">
+      <rect
+         id="rect18"
+         y="150"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#db1212;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect26"
+         y="184.62"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#db1212;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect32"
+         y="228.57001"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#db1212;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect40"
+         y="266.67001"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#db1212;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect44"
+         y="300"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#db1212;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect48"
+         y="342.85999"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#db1212;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect52"
+         y="400"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#db1212;fill-opacity:1;stroke:none" />
+      <rect
+         id="rect54"
+         y="436.35999"
+         x="50"
+         height="2"
+         width="50"
+         style="fill:#db1212;fill-opacity:1;stroke:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="594.14001"
+       sodipodi:linespacing="125%"
+       id="text56"><tspan
+         sodipodi:role="line"
+         id="tspan3216"
+         x="140"
+         y="594.14001"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:0.88 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="614.33002"
+       sodipodi:linespacing="125%"
+       id="text59"><tspan
+         sodipodi:role="line"
+         id="tspan61"
+         x="140"
+         y="614.33002"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:1.08 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="625.39001"
+       sodipodi:linespacing="125%"
+       id="text63"><tspan
+         sodipodi:role="line"
+         id="tspan65"
+         x="140"
+         y="625.39001"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:1.19 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="639.97003"
+       sodipodi:linespacing="125%"
+       id="text67"><tspan
+         sodipodi:role="line"
+         id="tspan69"
+         x="140"
+         y="639.97003"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:1.33 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="650.78998"
+       sodipodi:linespacing="125%"
+       id="text71"><tspan
+         sodipodi:role="line"
+         id="tspan73"
+         x="140"
+         y="650.78998"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:1.46 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="658.64001"
+       sodipodi:linespacing="125%"
+       id="text75"><tspan
+         sodipodi:role="line"
+         id="tspan77"
+         x="140"
+         y="658.64001"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:1.50 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="666.20001"
+       sodipodi:linespacing="125%"
+       id="text79"><tspan
+         sodipodi:role="line"
+         id="tspan81"
+         x="140"
+         y="666.20001"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:1.56 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="679.64001"
+       sodipodi:linespacing="125%"
+       id="text83"><tspan
+         sodipodi:role="line"
+         id="tspan85"
+         x="140"
+         y="679.64001"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:1.75 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="687.59003"
+       sodipodi:linespacing="125%"
+       id="text87"><tspan
+         sodipodi:role="line"
+         id="tspan89"
+         x="140"
+         y="687.59003"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:1.81 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="695.26001"
+       sodipodi:linespacing="125%"
+       id="text91"><tspan
+         sodipodi:role="line"
+         id="tspan93"
+         x="140"
+         y="695.26001"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:1.85 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="708.64001"
+       sodipodi:linespacing="125%"
+       id="text95"><tspan
+         sodipodi:role="line"
+         id="tspan97"
+         x="140"
+         y="708.64001"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:2.00 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="719.75"
+       sodipodi:linespacing="125%"
+       id="text99"><tspan
+         sodipodi:role="line"
+         id="tspan101"
+         x="140"
+         y="719.75"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:2.11 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="733.21002"
+       sodipodi:linespacing="125%"
+       id="text103"><tspan
+         sodipodi:role="line"
+         id="tspan105"
+         x="140"
+         y="733.21002"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:2.29 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="739.97003"
+       sodipodi:linespacing="125%"
+       id="text107"><tspan
+         sodipodi:role="line"
+         id="tspan109"
+         x="140"
+         y="739.97003"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:2.33 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="746.14001"
+       sodipodi:linespacing="125%"
+       id="text111"><tspan
+         sodipodi:role="line"
+         id="tspan113"
+         x="140"
+         y="746.14001"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:2.38 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="763.19"
+       sodipodi:linespacing="125%"
+       id="text115"><tspan
+         sodipodi:role="line"
+         id="tspan117"
+         x="140"
+         y="763.19"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:2.55 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="773.31"
+       sodipodi:linespacing="125%"
+       id="text119"><tspan
+         sodipodi:role="line"
+         id="tspan121"
+         x="140"
+         y="773.31"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:2.67 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="780.07001"
+       sodipodi:linespacing="125%"
+       id="text123"><tspan
+         sodipodi:role="line"
+         id="tspan125"
+         x="140"
+         y="780.07001"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:2.71 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="806.64001"
+       sodipodi:linespacing="125%"
+       id="text127"><tspan
+         sodipodi:role="line"
+         id="tspan129"
+         x="140"
+         y="806.64001"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:3.00 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="823.31"
+       sodipodi:linespacing="125%"
+       id="text131"><tspan
+         sodipodi:role="line"
+         id="tspan133"
+         x="140"
+         y="823.31"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:3.17 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="847.5"
+       sodipodi:linespacing="125%"
+       id="text135"><tspan
+         sodipodi:role="line"
+         id="tspan137"
+         x="140"
+         y="847.5"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:3.43 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="854.09003"
+       sodipodi:linespacing="125%"
+       id="text139"><tspan
+         sodipodi:role="line"
+         id="tspan141"
+         x="140"
+         y="854.09003"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:3.45 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="906.64001"
+       sodipodi:linespacing="125%"
+       id="text143"><tspan
+         sodipodi:role="line"
+         id="tspan145"
+         x="140"
+         y="906.64001"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:4.00 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="140"
+       y="943"
+       sodipodi:linespacing="125%"
+       id="text147"><tspan
+         sodipodi:role="line"
+         id="tspan149"
+         x="140"
+         y="943"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"> 1:4.36 </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 130,554.64 0,450"
+       id="path3130"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125,604.64 10,0"
+       id="path4588"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125,704.64 10,0"
+       id="path4588-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125,654.64 10,0"
+       id="path4588-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125,754.64 10,0"
+       id="path4588-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125,804.64 10,0"
+       id="path4588-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125,854.64 10,0"
+       id="path4588-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125,904.64 10,0"
+       id="path4588-07"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125,954.64 10,0"
+       id="path4588-6"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:Sans Italic"
+       x="120"
+       y="544.64001"
+       id="text4657"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4659"
+         x="120"
+         y="544.64001"
+         style="font-size:12px;font-style:normal;text-align:end;text-anchor:end;-inkscape-font-specification:TeX Gyre Pagella">24-speed</tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="559.64001"
+         id="tspan4661"
+         style="font-size:12px;font-style:normal;text-align:end;text-anchor:end;-inkscape-font-specification:TeX Gyre Pagella">28/38/48T chainring</tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="574.64001"
+         id="tspan4663"
+         style="font-size:12px;font-style:normal;text-align:end;text-anchor:end;-inkscape-font-specification:TeX Gyre Pagella">11-32 cassette</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:Sans Italic"
+       x="-804.64001"
+       y="120"
+       id="text4665"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4667"
+         x="-804.64001"
+         y="120"
+         style="font-style:normal">Low</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:Sans"
+       x="-914.64001"
+       y="100"
+       id="text4669"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4671"
+         x="-914.64001"
+         y="100">Middle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:Sans"
+       x="-994.64001"
+       y="80"
+       id="text4673"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4675"
+         x="-994.64001"
+         y="80">High</tspan></text>
+  </g>
+</svg>
