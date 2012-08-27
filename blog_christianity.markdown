@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Blog
+title: Blog - Christianity
 ---
-<h1>Blog - all</h1>
+<h1>Blog - Christianity</h1>
 
 {% include blogcategories.html %}
 
-{% for post in site.posts %}
+{% for post in site.categories.christianity %}
 ## {{ post.title }}
   {{ post.content | strip_html | truncatewords: 75 }}
 

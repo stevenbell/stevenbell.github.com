@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building the site
-tags: Technical
+categories: technical
 ---
 I've built a personal website several times, and while each one was a learning experience, I was never really happy with the end result.  This time, I actually like what I've got, and I intend to make it last longer than my other attempts.
 
