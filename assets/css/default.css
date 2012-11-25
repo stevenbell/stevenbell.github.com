@@ -9,6 +9,7 @@ body {
   margin-right: auto; }
 
 h1 {
+  display: inline;
   color: #b0000e;
   font-family: "Lato";
   font-size: 20px; }
@@ -49,7 +50,17 @@ hr {
   #nav a {
     color: #505050; }
 
+#subnav {
+  display: inline;
+  position: absolute;
+  right: 0px;
+  color: #505050;
+  font-family: "Lato"; }
+  #subnav a {
+    color: #505050; }
+
 #content {
+  position: relative;
   width: 80%; }
   #content img {
     position: relative;

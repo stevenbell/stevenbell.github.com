@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bike gearing visualized
-categories: Data visualization, cycling
+categories: other
 ---
 
 I've wanted to draw this diagram since my father first explained bicycle gearing to me, but I must have been too lazy.  I just replaced the rear gear cluster on my bike and found that the sprockets even had the number of teeth stamped on them, which destroyed my last feeble excuse about not wanting to count the number of teeth.
