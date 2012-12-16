@@ -15,10 +15,10 @@ layout: nil
     {% for post in site.posts %}
     <item>
       <title>{{ post.title }}</title>
-      <link>http://botsnlinux.net{{ post.url }}</link>
+      <link>http://www.botsnlinux.net{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>botsnlinux@gmail.com (Steven Bell)</author>
-      <guid>http://botsnlinux.net{{ post.id }}</guid>
+      <guid>http://www.botsnlinux.net{{ post.id }}</guid>
       <description>{{ post.content | xml_escape }}</description>
     </item>
     {% endfor %}
