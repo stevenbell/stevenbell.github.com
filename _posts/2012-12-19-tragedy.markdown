@@ -1,0 +1,42 @@
+---
+layout: post
+title: Tragedy
+category: other
+---
+
+I'm reluctant to post this, since people are hurting and there's little I can say that won't come off as calloused.  So let me preface this by saying that my heart and prayers go out to the families and community of Newtown, Connecticut.  And to the people in Portland Oregon, and in Aurora, Colorado, and in Lancaster County, Pennsylvania, and at Virginia Tech, and in Columbine, Colorado, and in a dozen other places which now escape my memory.  What has happened is awful, and we are right to grieve.
+
+Yet while incidents like this reliably produce a visceral reaction in one half of my brain, the opposite side wants to dredge up some numbers.  As it pulls the facts out of the recesses of my consciousness, tears come to my eyes, because there are a lot of things we've forgotten.
+
+Let's start with a graph, assuming that Friday was, in all other respects, a statistically average day in the United States.
+
+![Lives taken on 14 December](/assets/posts{{ page.id }}/friday.png)
+
+That's another sixty-five families who lost loved ones on Friday.  Another sixty-five who are grieving and trying to make sense of what just happened to them.  Another sixty-five who need and deserve our prayers as much as the people of Newtown, CT \[1\].
+
+Now, let's step back and look at the whole year (2011, in this case).
+
+![Lives taken over a year](/assets/posts{{ page.id }}/year.png)
+
+Perhaps we have a larger problem on our hands than we want to admit.  Much larger.
+
+If you take a minute to ponder, you'll realize we're just getting started.  For the sake of brevity, I won't plot the numbers of suicides, rapes, and civilians killed in conflict in the Middle East and elsewhere around the globe - all of which are larger than the numbers of deaths shown above.
+
+But something is different, they say.  These schoolchildren were young, they were innocent, they had their whole lives ahead of them.  I'm not sure I follow this; a 50-year old isn't inherently any less innocent or more deserving of murder than a 6-year old.  But for the sake of argument, let's look at one more graph.  I don't like to talk about it, because it's extremely controversial and extremely painful.  But here it is \[2\]:
+
+![Children killed in one year](/assets/posts{{ page.id }}/children.png)
+
+The shooting at Sandy Hook Elementary was tragic.  But equally tragic is the fact that that we've forgotten what occurs every day on our planet and in our country.  Evil is real.  And if we think that laws or financial well-being or psychology or education can fix the human race, we're deluding ourselves.  Only Jesus can bring healing to this broken world.
+
+**Footnotes**
+1.  Someone will say that drunk driving does not match the atrocity of storming into a school and opening fire on its students.  I've included it here as a comparison, because it is another instance where a person made a morally wrong and illegal decision, and killed a human being as a result, even if they didn't intend to.  The fact that it no longer shocks us is exactly the point I'm driving at.
+2.  Abortion numbers from 2008; newer numbers don't seem to be readily available. Making the (generous) assumption that children under 8 years of age (~10% of the US population) are proportionally likely to be murdered or killed by a drunk driver, we can interpolate the numbers above.
+
+**Sources**
+
+[US annual homicides - FBI](http://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2011/crime-in-the-u.s.-2011/tables/table_12_crime_trends_by_population_group_2010-2011.xls)
+
+[Drunk driving - MADD](http://www.madd.org/blog/2012/december/2011-State-data.html)
+
+[Abortion - Guttmacher Institute](http://www.guttmacher.org/pubs/fb_induced_abortion.html)
+
