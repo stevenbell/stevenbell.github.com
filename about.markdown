@@ -4,7 +4,7 @@ title: About
 ---
 
 # About Me
-I'm a graduate student at [Stanford University](http://stanford.edu), where I'm studying Electrical Engineering with an emphasis on signal and image processing.  I received my bachelor's degree in Computer Engineering from [Oklahoma Christian University](http://oc.edu) in the spring of 2012.
+I'm a graduate student at [Stanford University](http://stanford.edu), where I'm studying Electrical Engineering with an emphasis on signal and image processing.  I received my bachelor's degree in Computer Engineering from [Oklahoma Christian University](http://oc.edu) in the spring of 2011.
 
 In my free time, I enjoy just about anything outside.  Most often, it's hiking, cycling, running, sailing, or [geocaching](http://geocaching.com).  I'm proud to not own a car (for now), and am happy getting around on my bike.  I enjoy technical projects, especially anything where I can pull out a soldering iron or a wrench and also write some code.  I was heavily involved in [FIRST LEGO League](http://firstlegoleague.com) and the [FIRST Robotics Competition](http://usfirst.org/frc) as a student, and continued to mentor a team in college.
 
