@@ -1,0 +1,29 @@
+---
+layout: post
+title: Bike gearing visualized, take 2
+category: other
+---
+
+I bought a new bike a few months ago, so it's high time for another bike gear visualization.  I also recently learned about a tool called [D3.js](http://d3js.org), which simplifies the task of making visually attractive and interactive documents with Javascript and SVG.
+
+Enter gear tooth numbers to update the visualization.  Low gears are at the top; high gears are at the bottom.
+
+<script type="text/javascript" src="/assets/js/d3.v3.js">/* Empty comment to make Jekyll happy */</script>
+<script type="text/javascript" src="/assets/posts{{ page.id }}/bikegears.js">/* Empty comment to make Jekyll happy */</script>
+
+
+Numbers of teeth on the front chainring, separated by spaces:
+<input id="chainring" type="text" value="28 38 48" onBlur="calculateGears()"/>
+
+Numbers of teeth on the rear cassette, separated by spaces:
+<input id="cassette" type="text" value="11 12 14 16 18 21 26 32" onBlur="calculateGears()"/>
+
+<button onClick="calculateGears()">Update</button>
+
+<div class="output">
+<svg width="400" height="600">
+
+</svg>
+</div>
+
+
