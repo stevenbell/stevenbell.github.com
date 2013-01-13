@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 # Projects
-Although most of my projects have some technical bent, the projects which are primarily software are located on the [code] page.
+Although most of my projects have some technical bent, the projects which are primarily software are located on the [code](code.html) page.
 
 # OpenStreetMap
 I am contributor to the OpenStreetMap project, which aims to create a freely-editable map of the world, akin to Wikipedia for maps.  In general, I have worked on small areas near where I live, adding buildings and trails, and correcting roads.
