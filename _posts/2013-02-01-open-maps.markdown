@@ -1,0 +1,28 @@
+---
+layout: post
+title: Mapping North Korea - A Rant
+category: technical
+---
+
+There have been a few recent news articles noting that Google maps now has coverage of North Korea, where coverage in this case means that Pyongyang has some roads instead of a single dot at an intersection.  The articles are typically glowing and excited, and talk about how Google made the maps with the aid of dozens of "citizen cartographers" armed with Google Map Maker.  It sounds so free and refreshing.  Google, with an army of free-thinking liberators, is vanquishing the cartographic void.  But as with everything, there are two sides to the story.
+
+First, Google is merely playing catch-up, not doing anything groundbreaking.  Take a look at the [OpenStreetMap](http://openstreetmap.org) (OSM) coverage for Pyongyang, compared to Google's coverage:
+
+![Google's map of Pyongyang](/assets/posts{{ page.id }}/pyongyang_google.png)
+
+[Link to live version](http://maps.google.com/?ll=39.007313,125.729685&spn=0.048021,0.054932&t=m&z=14)
+
+![OpenStreetMap map of Pyongyang](/assets/posts{{ page.id }}/pyongyang_osm.png)
+
+[Link to live version](http://www.openstreetmap.org/?lat=39.0143&lon=125.7351&zoom=14&layers=M)
+
+For those who aren't familiar with it, OpenStreetMap is a little bit like "Wikipedia for maps".  It's a free map of the world, created by hundreds of thousands of users mapping things in their spare time.
+
+Despite the noise Google has recently made, OSM has a better map of Pyongyang.  In fairness, there has been a flurry of OSM edits in the last couple days, and I don't know what additional data Google has that they haven't shared publicly.  Even so, OSM is moving faster than Google is in unmapped areas.  In [Cite Soleil (Haiti)](http://www.openstreetmap.org/?lat=18.57852&lon=-72.33485&zoom=17&layers=M), OSM cartographers have mapped details down to the public bathrooms and water fountains in the slum.
+
+Second, and far more importantly, Google now owns all of the data that their "citizen cartographers" created, and you can be sure that they'll use that data to build up their already overflowing bank account.  By contrast, data contributed to OpenStreetMap is made available, free of charge, to anyone who wishes to use it.  I can use it.  You can use it.  Mapquest can use it ([and they do](http://open.mapquest.com)).  Foursquare and Apple can use it (and they do).  Even Google could use it, if they chose to.
+
+Under Google's system, the contributors on the ground are akin to serfs in a medieval feudal system.  They profit from their work, to the extent that Google now provides the peons with better maps, but it's really lord Google who stands to gain.  With open data, everyone reaps the rewards.
+
+I guess that's enough of the soapbox for tonight.  But I've got a cool OSM-based project in the works, so stay tuned.
+
