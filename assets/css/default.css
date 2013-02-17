@@ -89,3 +89,8 @@ hr {
 #footer {
   font-size: 10px;
   font-family: "Lato"; }
+
+#socialicons {
+  display: inline;
+  position: absolute;
+  right: 0px; }
