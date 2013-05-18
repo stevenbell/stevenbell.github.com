@@ -1,0 +1,132 @@
+---
+layout: post
+title: The problem with recipes
+category: other
+---
+
+A recipe is a lot like a computer program.  Half of you already know what I mean; the other half of you are going to need some convincing.
+
+Below is a recipe for banana cookies:
+
+    3/4 cup margerine
+    1/2 cup brown sugar
+    1/2 cup white sugar
+    1 tsp vanilla
+    dash of cinnamon
+    1 egg
+    320 g of bananas
+    1 tsp baking powder
+    150 g oatmeal
+    dash of salt
+    320 g flour
+
+    Cream together margerine and sugar.  Stir in vanilla, cinnamon,
+    and egg until smooth.  Stir in bananas until combined, then add baking
+    powder, oatmeal, and salt.  Add the flour and stir until just
+    combined.  Drop onto a baking sheet and bake at 350 until done.
+
+Below is a C++ program for banana cookies.  For my non-technical friends who didn't bail after reading the first sentence, notice how the beginning contains a list of ingredients ("margerine", "brownSugar"), along with their sizes ("float", "int") and amounts ("0.0", 196).  You'll have to take my word for it, but the second part contains a list of things for the computer to do: mix the brown sugar and white sugar, smash the bananas, and mix the flour as long as there's an egg (or something like that!).
+
+    #include <stdio.h>
+
+    int main()
+    {
+        float margerine = 0.0f;
+        int brownSugar;
+        int whiteSugar = 196;
+        bool egg = true;
+        unsigned long bananas = 1802461984;
+        char* vanilla;
+        unsigned char flour = 0;
+        int oatmeal[] = {105, -4, 14, 174}; 
+        unsigned char salt = flour;
+    
+    
+        for(brownSugar = whiteSugar >> 1; brownSugar % 12 > 0; brownSugar--){
+            putchar(brownSugar);
+        }
+        printf("%f", 0.0 / margerine);
+        putchar(++brownSugar);
+        vanilla = (char*)&bananas;
+        for(; flour < 4; flour++){
+           putchar(vanilla[flour]);
+           if(flour == 2 && egg){
+             flour = flour - 1;
+             egg = flour - 1;
+           }
+        }
+        for(flour = 0; flour < 4; flour++){
+           salt += oatmeal[flour];
+           putchar(salt);
+        }
+        putchar('\n');
+    
+        return(0);
+    }
+
+The thing is, there's a problem with this code, which some of you have hopefully spotted already.  It contains no comments.  Sure, the code works fine (try it!), but there's nothing to explain the thought process that went into it.  If you want to know what it does, you have to think pretty hard about what's going on, or just try it.
+
+That, exactly, is the problem with recipes.  Practically every recipe I've seen contains a list of ingredients and a set of instructions, but nothing about the thought process that created it, the reasoning behind the instructions, or the areas of uncertainty.  In short, the real knowledge embedded in the recipe is gone, and only the instructions remain.  Following a recipe, I'm reduced to mechanically carrying out instructions, just like a computer.
+
+The solution?  Recipes need comments, just like code.
+
+So let's try the cookie recipe again:
+
+    /* This is the third (written) iteration of this recipe, but
+     * it could still be experimented with.  It rises a fair bit
+     * due to the moisture in the bananas, but the oatmeal helps keep
+     * it moist and chewy. */
+    3/4 cup margerine
+        // I experimented with 1 cup margerine, and with a mixture of
+        // 1/2 c margerine and 1/2 c butter.  The rest of the recipe was
+        // also in flux, so I don't have a concrete preference.  A bit
+        // of vegetable oil might also be used here.
+    1/2 cup brown sugar
+        // Helps make a chewier cookie versus plain sugar.
+    1/2 cup white sugar
+    1 tsp vanilla  // I don't measure the tsp, just pour a little in.
+    dash of cinnamon
+        // Just a sprinkle of cinnamon; the banana flavor should dominate.
+    1 egg
+        // I used a normal "large" egg. Previous iterations of the recipe used
+        // more eggs, but one gives lift to the cookie without making it too wet.
+    320 g of bananas
+        // This was two over-ripe bananas, plus one from the freezer.
+        // Be careful not to add too much water from frozen bananas; I
+        // found that briefly running it under warm water melted off any
+        // ice it had accumulated.
+    1 tsp baking powder
+        // I measure this with a real teaspoon measure, but I don't know
+        // if this is the right amount.
+    150 g oatmeal
+        // I'd like to experiment with even more oatmeal and less flour.
+        // The oatmeal helps the cookie be chewy and crumbly, while flour
+        // tends to just make something akin to a muffin or pancake.
+    dash of salt
+        // I used perhaps a quarter teaspoon, but I tend to under-salt things.
+    320 g flour
+        // This is about 2.5 cups, but you should really measure things by 
+        // weight.  The primary failure of the past few iterations was
+        // adding too much flour, so be careful here.
+
+    * Cream together margerine and sugar.  Once wet ingredients are
+      added, it's nearly impossible to squelch the margerine lumps,
+      especially if it wasn't soft to start with.  Stir in vanilla,
+      cinnamon, and egg until smooth.  The mixture won't be creamy,
+      but it shouldn't be lumpy either.
+    * Stir in bananas until combined, then add baking powder, oatmeal,
+      and salt.  Walnuts would be good here, too.
+    * Add the flour and stir until just combined.  The dough will
+      still be rather wet; that is ok.  Adding more flour will make
+      the cookie dry and muffin-like.  If possible, add the flour all
+      at once and stir quickly to combine.  Stirring the dough
+      excessively will cause the flour to form gluten, which will make
+      the cookie tougher.  
+    * Drop onto a baking sheet and bake at 350 degrees F until done.
+      You'll have to tweak this for your oven, of course.  I tried
+      375, but found that the bottoms of the cookies were turning dark
+      before the tops were done.  I pulled them out when the the tops
+      just started to brown.
+
+Better?  Maybe I'm just crazy?
+
