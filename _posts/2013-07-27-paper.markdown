@@ -1,0 +1,30 @@
+---
+layout: post
+title: Paper, or, Why Imperial Units are Awful
+category: other
+---
+
+I went to buy paper today.  If you haven't recently had the unfortunate experience of trying to buy something other than "plain ol' copy paper", then let me tell you - it's a jungle out there.
+
+I first looked at some card stock, and that's where my troubles began.  The heaviness of the paper was listed in both Imperial (pounds) and metric units (grams per square meter).  My curiosity got the best of me, and I started mentally calculating the conversion factor.  But then I looked at the package next to it, which had nearly the same pound weight, and was disturbed to realize that it had twice the gram weight of the first.  Huh?
+
+But it got worse.  Looking around, I discovered a pair of packages with a particularly frustrating pair of weight measurements: 
+
+<img src="/assets/posts{{ page.id }}/greaterless.jpg" alt="Two packages of paper" title="Basically, the heavier package weighs less." />
+
+What?
+
+Maybe the density factors into the "pounds" unit, I reasoned.  Then I saw these, which have the same weight (in both sets of units), and both contain 500 sheets:
+
+![Different thicknesses!](/assets/posts{{ page.id }}/thickness.jpg)
+
+I spent several minutes of consterned pondering, until a sales rep wandered by and asked if needed help.  I didn't want to drag him into this mess, but he asked for it: "I'm trying to understand the weight measurement.  It's the weight of a certain number of sheets of paper, right?"
+
+"Well, uh, yeah, I mean, it's pretty much the weight of the package."  I glanced at the package of 65-lb card stock, which weighed probably five pounds, and tried not to laugh.  Clearly this guy was going be able to pull me out of my self-inflicted conundrum.
+
+Then I saw a note on the back of one package that cleared everything up:
+
+![Staples uses Imperial units.](/assets/posts{{ page.id }}/usscale.jpg)
+
+I think we've found the problem.
+
