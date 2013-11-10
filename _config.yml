@@ -1,3 +1,6 @@
 # Jekyll configuration
 permalink: /:year-:month-:day/:title/
+markdown: kramdown
 
+# Custom configuration values
+url: http://www.botsnlinux.net
