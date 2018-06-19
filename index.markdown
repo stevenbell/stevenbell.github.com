@@ -2,7 +2,7 @@
 layout: page
 title: Welcome
 ---
-![Portrait](assets/img/portrait.jpg)
+<img class="floater" src="assets/img/portrait.jpg" />
 
 # Hi, I'm Steven!
 

@@ -13,8 +13,8 @@ $basemargin: 1em;
 $basepadding: 0.5em;
 
 // Font definitions
-$font_serif: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-$font_sans: "Lato";
+$font_serif: 'Lora', serif;
+$font_sans: 'Lato';
 
 body 	
 {
@@ -67,7 +67,7 @@ hr
   display: inline;
   color: $color_accent;
   font-family: $font_sans;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 30px;
 }
 
@@ -105,17 +105,20 @@ hr
   position: relative; // So children are relative to this
   width: 100%;
   img {
-    // TODO: This works for the home page, but I want to be able to center
-    // images on the blog. Need to differentiate those somehow.
     display: block;
     position: relative;
-    margin-left: 30px;
+    margin-left: auto;
     margin-right: auto;
-    float: right;
   }
   hr {
     width: 40%;
     height: 1px;
+  }
+
+  // Overrides default content layout
+  .floater{
+    margin-left: 30px;
+    float: right;
   }
 }
 
