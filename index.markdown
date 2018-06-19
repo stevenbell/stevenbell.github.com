@@ -2,22 +2,16 @@
 layout: page
 title: Welcome
 ---
-# Welcome!
-Welcome to my personal website, which is a somewhat eclectic repository of projects and bits of software mixed with a blog of musings, writings and rants.
+![Portrait](assets/img/portrait.jpg)
 
-# Recent blog posts
+# Hi, I'm Steven!
 
-{% for post in site.posts | limit: 3 %}
-## {{ post.title }}
-  {{ post.content | strip_html | truncatewords: 75 }}
- 
-  <div class="postinfo">
+I'm delighted to be starting as a Lecturer in Electrical and Computer Engineering at [Tufts University](http://tufts.edu) in September 2018.
+Until then, I'm wrapping up my PhD at [Stanford University](http://stanford.edu) and planning an epic move across the country with my family.
 
-  Posted {{ post.date | date_to_string }} &nbsp; &nbsp; <a href="{{post.url}}">Read more...</a>
+# News
+For more consistent (but still infrequent) updates, you can [follow me on Twitter](http://twitter.com/stevenebell).
 
-  </div>
- 
-{% endfor %}
-
-
+## Presenting at ASEE
+I'm presenting on [Stanford's ENGR 40M](http://engr40m.stanford.edu), "An Introduction to Making" at the 2018 ASEE annual conference.  The basic goal was to make an introductory electrical engineering class more interesting and useful for the non-majors who were taking it by centering the course around a series of fun and realistic projects.  You can read the full paper here [PDF, 3.9MB].
 

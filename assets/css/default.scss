@@ -103,12 +103,15 @@ hr
 #content
 {
   position: relative; // So children are relative to this
-  width: 80%;
+  width: 100%;
   img {
+    // TODO: This works for the home page, but I want to be able to center
+    // images on the blog. Need to differentiate those somehow.
     display: block;
     position: relative;
-    margin-left: auto;
+    margin-left: 30px;
     margin-right: auto;
+    float: right;
   }
   hr {
     width: 40%;

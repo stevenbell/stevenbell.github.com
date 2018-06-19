@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #ffffff;
   color: #202020;
   font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   position: relative;
@@ -25,8 +25,8 @@ a:hover {
   text-decoration: underline; }
 
 hr {
-  color: gray;
-  background-color: gray;
+  color: #808080;
+  background-color: #808080;
   border: 0px;
   height: 2px;
   margin-top: 1em;
@@ -60,12 +60,13 @@ hr {
 
 #content {
   position: relative;
-  width: 80%; }
+  width: 100%; }
   #content img {
     display: block;
     position: relative;
-    margin-left: auto;
-    margin-right: auto; }
+    margin-left: 30px;
+    margin-right: auto;
+    float: right; }
   #content hr {
     width: 40%;
     height: 1px; }
@@ -94,3 +95,5 @@ hr {
   display: inline;
   position: absolute;
   right: 0px; }
+
+/*# sourceMappingURL=default.css.map */
