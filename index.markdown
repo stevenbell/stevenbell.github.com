@@ -22,7 +22,7 @@ Office hours for Fall 2018:
 
 * Mondays, 1:30-3:30pm (open space in Halligan extension)
 * Tuesdays, 4:00-6:00pm (open space in Halligan extension)
-* Thursdays, 3:30-4:30pm (walking office hours, route TBD)
+* Thursdays, 3:30-4:30pm ([walking office hours, route here](walking_oh))
 
 I'm also happy to meet outside of these times; just send me an email and we can schedule something.
 
