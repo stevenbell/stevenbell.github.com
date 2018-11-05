@@ -10,6 +10,10 @@ I'm a Lecturer in Electrical and Computer Engineering at [Tufts University](http
 * [EE 200 -- Accelerated programming for graduate students](http://www.ece.tufts.edu/ee/200)
 * [EE 193-HIP -- Imaging systems: From photons to bits and back](http://www.ece.tufts.edu/ee/193HIP)
 
+In Spring 2019, I'll be teaching:
+* [EE 201 -- Fundamentals of computer systems and engineering](http://www.ece.tufts.edu/ee/201)
+* [ES 4 -- Introduction to digital logic circuits](http://www.ece.tufts.edu/es/4)
+
 For a full description of these and other courses, see my [teaching page](teaching).
 
 # Contact
@@ -26,9 +30,11 @@ Office hours for Fall 2018:
 
 I'm also happy to meet outside of these times; just send me an email and we can schedule something.
 
+If you're interested in working in my research lab, [please read this first](working_with_me).
+
 # News
 For more consistent (but still infrequent) updates, you can [follow me on Twitter](http://twitter.com/stevenebell).
 
 ## ASEE-ECE best paper
-In June, I presented on [Stanford's ENGR 40M](http://engr40m.stanford.edu), "An Introduction to Making" at the 2018 ASEE annual conference, which was chosen as the ECE section Best Paper.  The basic goal was to make an introductory electrical engineering class more interesting and useful for the non-majors who were taking it by centering the course around a series of fun and realistic projects.  You can read the [full paper here](http://files.stevenbell.me/papers/asee2018_engr40m.pdf) [PDF, 3.9MB].
+In June 2018, I presented on [Stanford's ENGR 40M](http://engr40m.stanford.edu), "An Introduction to Making" at the 2018 ASEE annual conference, which was chosen as the ECE section Best Paper.  The basic goal was to make an introductory electrical engineering class more interesting and useful for the non-majors who were taking it by centering the course around a series of fun and realistic projects.  You can read the [full paper here](http://files.stevenbell.me/papers/asee2018_engr40m.pdf) [PDF, 3.9MB].
 
