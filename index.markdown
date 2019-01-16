@@ -7,12 +7,12 @@ title: Welcome
 # Hi, I'm Steven!
 
 I'm a Lecturer in Electrical and Computer Engineering at [Tufts University](http://tufts.edu), where I teach a mix of topics including embedded programming, computer architecture, and imaging systems.  I am currently teaching:
+* [ES 4 -- Introduction to digital logic circuits](http://www.ece.tufts.edu/es/4)
+* [EE 201 -- Fundamentals of computer systems and engineering](http://www.ece.tufts.edu/ee/201)
+
+In Fall 2018, I taught:
 * [EE 200 -- Accelerated programming for graduate students](http://www.ece.tufts.edu/ee/200)
 * [EE 193-HIP -- Imaging systems: From photons to bits and back](http://www.ece.tufts.edu/ee/193HIP)
-
-In Spring 2019, I'll be teaching:
-* [EE 201 -- Fundamentals of computer systems and engineering](http://www.ece.tufts.edu/ee/201)
-* [ES 4 -- Introduction to digital logic circuits](http://www.ece.tufts.edu/es/4)
 
 For a full description of these and other courses, see my [teaching page](teaching).
 
@@ -22,11 +22,11 @@ For a full description of these and other courses, see my [teaching page](teachi
 
 steven.bell _ tufts.edu
 
-Office hours for Fall 2018:
+Office hours for Spring 2019:
 
-* Mondays, 1:30-3:30pm (open space in Halligan extension)
-* Tuesdays, 4:00-6:00pm (open space in Halligan extension)
-* Thursdays, 3:30-4:30pm ([walking office hours, route here](walking_oh))
+* Mondays, 3-4:00pm ([walking office hours, route here](walking_oh))
+* Wednesdays, 3-4:30pm
+* Thursdays, 1-3pm
 
 I'm also happy to meet outside of these times; just send me an email and we can schedule something.
 
