@@ -3,9 +3,20 @@ layout: page
 title: Teaching
 ---
 
-# Spring 2019
+# Fall 2019
+I will be teaching the following three courses at Tufts in Fall 2019.  If you're a student considering these classes, feel free to contact me with any questions or concerns you have.
 
-I will be teaching the following two classes at Tufts in Spring 2019.  If you're a student considering these classes, feel free to contact me with any questions or concerns you have.
+## EE 105 --- Feedback control systems
+Modern control and fundamentals of state-feedback including matrix differential equations, controllability, state transformations, canonical forms, and control matrix design. Classical control and output-feedback with topics including transfer functions, s-plane analysis, stability criteria, PID controllers, root locus, controller design using op-amps, and compensation networks.
+
+## EE 193 --- Imaging systems: From photons to bits and back
+Cameras and displays may seem straightforward, but it takes an amazing amount of engineering to go from light striking a camera lens to an image on a screen.  We begin this journey by studying the fascinating abilities (and surprising inabilities) of the human visual system and the fundamentals of light and color.  Then we enter the lens of a camera and travel down the image processing pipeline, discussing how pixels are created, processed, and compressed.  Finally, we discuss systems for transmitting and displaying images on screens of all kinds.  Based on this foundation, we conclude with a survey of cutting edge topics in imaging, including computational cameras, image forensics, and virtual reality.
+
+## EE 200 --- Accelerated programming for graduate students
+Programming in C and C++ with coverage of data structures (linked lists, binary trees, hash tables, graphs), abstract data types (stacks, queues, maps, sets) and algorithms (sorting, graph search, minimal spanning tree). Efficiency of these structures and algorithms is compared via Big-O analysis. Brief coverage of concurrent (multi-threaded) programming. Object-oriented design: inheritance, templates and virtual methods. Embedded, high-performance and close-to-hardware applications. Defensive coding and use of standard UNIX development tools. 
+
+
+# Spring 2019
 
 ## ES 4 --- Introduction to digital logic circuits
 Today you can find a microprocessor in almost anything electronic, and yet even those of us who can program them often have very little understanding of their inner workings. In ES 4, we will study microprocessors  ---  and digital electronics more generally  ---  from the ground up. From your past courses, you know how computers work at the physical level (voltages and currents) and at the application level (C and other languages); the objective of this course is to connect the dots between the two.
@@ -18,11 +29,10 @@ This course provides a fast-paced introduction to digital systems and computer a
 
 # Fall 2018
 
-## EE 193 --- Imaging systems: From photons to bits and back
-Cameras and displays may seem straightforward, but it takes an amazing amount of engineering to go from light striking a camera lens to an image on a screen.  We begin this journey by studying the fascinating abilities (and surprising inabilities) of the human visual system and the fundamentals of light and color.  Then we enter the lens of a camera and travel down the image processing pipeline, discussing how pixels are created, processed, and compressed.  Finally, we discuss systems for transmitting and displaying images on screens of all kinds.  Based on this foundation, we conclude with a survey of cutting edge topics in imaging, including computational cameras, image forensics, and virtual reality.
+In Fall 2018, I taught:
 
-## EE 200 --- A Machine-Centric Approach to Programming, Data Structures and Algorithms
-Programming in C and C++ with coverage of data structures (linked lists, binary trees, hash tables, graphs), abstract data types (stacks, queues, maps, sets) and algorithms (sorting, graph search, minimal spanning tree). Efficiency of these structures and algorithms is compared via Big-O analysis. Brief coverage of concurrent (multi-threaded) programming. Object-oriented design: inheritance, templates and virtual methods. Embedded, high-performance and close-to-hardware applications. Defensive coding and use of standard UNIX development tools. 
+* EE 193 --- Imaging systems: From photons to bits and back
+* EE 200 --- Accelerated programming for graduate students
 
 # At Stanford
 I helped to create and teach [ENGR 40M](http://engr40m.stanford.edu), Stanford's new introductory electrical engineering class primarily for non-majors.
