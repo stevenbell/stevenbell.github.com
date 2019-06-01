@@ -38,7 +38,7 @@ If you're interested in working in my research lab, [please read this first](wor
 For more consistent (but still infrequent) updates, you can [follow me on Twitter](http://twitter.com/stevenebell).
 
 ## Tufts "Teaching with Technology" award
-I received a 2019 Tufts "Teaching with Technology" award for my work creating VHDLweb, a tool which lets students write and simulate VHDL code in a web browser.
+I received a [2019 Tufts "Teaching with Technology"](https://sites.tufts.edu/ets/2019/05/23/winners-of-the-2019-teaching-with-technology-awards/) award for my work creating [VHDLweb](vhdlweb.com), a tool which lets students write and simulate VHDL code in a web browser.
 
 Traditional simulation tools have substantial installation overhead, making them impractical to use for a quick in-class exercise.  They also have a steep learning curve, meaning that precious cognitive resources which could be focused on learning digital design are instead wasted navigating the peculiarities of the tool.
 
