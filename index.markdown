@@ -6,7 +6,7 @@ title: Welcome
 
 # Hi, I'm Steven!
 
-I'm a Lecturer in Electrical and Computer Engineering at [Tufts University](http://tufts.edu), where I teach a mix of topics including embedded programming, computer architecture, and imaging systems.  In Fall 2019, I'll be teaching the following courses:
+I'm a Lecturer in Electrical and Computer Engineering at [Tufts University](http://tufts.edu), where I teach a mix of topics including embedded programming, computer architecture, and imaging systems.  In Fall 2019, I'm teaching the following courses:
 
 * [EE 200 -- Accelerated programming for graduate students](http://www.ece.tufts.edu/ee/200)
 * [EE 193-HIP -- Imaging systems: From photons to bits and back](http://www.ece.tufts.edu/ee/193HIP)
@@ -20,15 +20,15 @@ For a full description of these and other courses, see my [teaching page](teachi
 
 # Contact
 
-112 Halligan Hall (in the front door, turn right down the hall, and I'm on the left)
+Halligan Hall 202c
 
 sbell _ ece.tufts.edu
 
-Office hours for Spring 2019:
+Office hours for Fall 2019:
 
-* Mondays, 3-4:00pm ([walking office hours, route here](walking_oh))
-* Wednesdays, 3-4:30pm
-* Thursdays, 1-3pm
+* Mondays, 10:30am-12:30pm
+* Tuesdays, 3-5pm
+* Thursdays, 3-4pm ([walking office hours, route here](walking_oh))
 
 I'm also happy to meet outside of these times; just send me an email and we can schedule something.
 
