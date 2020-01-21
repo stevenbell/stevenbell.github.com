@@ -3,8 +3,10 @@ layout: page
 title: Teaching
 ---
 
+# Spring 2020
+I'm on leave for Spring 2020.  One project I'm working on while I'm away is [VHDLweb](http://vhdlweb.com), a web-based tool for learning VHDL and digital design.
+
 # Fall 2019
-I will be teaching the following three courses at Tufts in Fall 2019.  If you're a student considering these classes, feel free to contact me with any questions or concerns you have.
 
 ## EE 105 --- Feedback control systems
 Modern control and fundamentals of state-feedback including matrix differential equations, controllability, state transformations, canonical forms, and control matrix design. Classical control and output-feedback with topics including transfer functions, s-plane analysis, stability criteria, PID controllers, root locus, controller design using op-amps, and compensation networks.

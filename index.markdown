@@ -6,13 +6,13 @@ title: Welcome
 
 # Hi, I'm Steven!
 
-I'm a Lecturer in Electrical and Computer Engineering at [Tufts University](http://tufts.edu), where I teach a mix of topics including embedded programming, computer architecture, and imaging systems.  In Fall 2019, I'm teaching the following courses:
+I'm an Assistant Teaching Professor in Electrical and Computer Engineering at [Tufts University](http://tufts.edu), where I teach a mix of topics including embedded programming, computer architecture, and imaging systems.
+
+Over the past year, I've taught the following courses:
 
 * [EE 200 -- Accelerated programming for graduate students](http://www.ece.tufts.edu/ee/200)
 * [EE 193-HIP -- Imaging systems: From photons to bits and back](http://www.ece.tufts.edu/ee/193HIP)
 * EE 105 -- Control systems
-
-In Spring 2019, I taught:
 * [ES 4 -- Introduction to digital logic circuits](http://www.ece.tufts.edu/es/4)
 * [EE 201 -- Fundamentals of computer systems and engineering](http://www.ece.tufts.edu/ee/201)
 
@@ -24,18 +24,11 @@ Halligan Hall 202c
 
 sbell _ ece.tufts.edu
 
-Office hours for Fall 2019:
-
-* Mondays, 10:30am-12:30pm
-* Tuesdays, 3-5pm
-* Thursdays, 3-4pm ([walking office hours, route here](walking_oh))
-
-I'm also happy to meet outside of these times; just send me an email and we can schedule something.
+I am on leave for Spring 2020, but I'll generally be on campus one day a week.  Send me an email if you'd like to schedule a meeting.
 
 If you're interested in working in my research lab, [please read this first](working_with_me).
 
 # News
-For more consistent (but still infrequent) updates, you can [follow me on Twitter](http://twitter.com/stevenebell).
 
 ## Tufts "Teaching with Technology" award
 I received a [2019 Tufts "Teaching with Technology"](https://sites.tufts.edu/ets/2019/05/23/winners-of-the-2019-teaching-with-technology-awards/) award for my work creating [VHDLweb](vhdlweb.com), a tool which lets students write and simulate VHDL code in a web browser.
