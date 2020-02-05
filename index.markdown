@@ -24,7 +24,7 @@ Halligan Hall 202c
 
 sbell _ ece.tufts.edu
 
-I am on leave for Spring 2020, but I'll generally be on campus one day a week.  Send me an email if you'd like to schedule a meeting.
+I am on leave for Spring 2020, but I'll generally be on campus one day a week.  You can see when I'll be around on [this calendar](https://calendar.google.com/calendar/embed?src=jqv8i8fejpbggot1r8k7qooqoc%40group.calendar.google.com&ctz=America%2FNew_York); send me an email if you'd like to schedule a meeting.
 
 If you're interested in working in my research lab, [please read this first](working_with_me).
 
