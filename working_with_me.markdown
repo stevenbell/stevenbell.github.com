@@ -7,7 +7,7 @@ title: Joining my research lab
 
 I frequently get emails from students outside Tufts asking if they can join my research lab.  Since I don't have the time to respond to everyone individually, I'm sharing a general response here.
 
-First things first: I don't have a research lab.  My title at Tufts is *lecturer*, which means I get to spend my time teaching rather than purusing grants and running a lab.
+First things first: I don't have a research lab.  My title at Tufts is Assistant *Teaching* Professor, which means I get to spend my time teaching rather than purusing grants and running a lab.
 However, I am open to co-advising students or working with undergraduates whose interests align with mine.  If you're a Tufts student, come find me in my office some time and we'll talk.
 
 If you are not a Tufts student and are interested in working with me, you should do some background work and then send me an email.  Three things are critical:

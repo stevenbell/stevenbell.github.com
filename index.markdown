@@ -8,27 +8,32 @@ title: Welcome
 
 I'm an Assistant Teaching Professor in Electrical and Computer Engineering at [Tufts University](http://tufts.edu), where I teach a mix of topics including embedded programming, computer architecture, and imaging systems.
 
-Over the past year, I've taught the following courses:
-
+In Fall 2020, I'll be teaching
 * [EE 200 -- Accelerated programming for graduate students](http://www.ece.tufts.edu/ee/200)
-* [EE 193-HIP -- Imaging systems: From photons to bits and back](http://www.ece.tufts.edu/ee/193HIP)
-* EE 105 -- Control systems
+* [EN 1-24 -- Engineering in the Kitchen](http://www.ece.tufts.edu/en/1)
+
+In Spring 2021, I anticipate teaching:
 * [ES 4 -- Introduction to digital logic circuits](http://www.ece.tufts.edu/es/4)
 * [EE 201 -- Fundamentals of computer systems and engineering](http://www.ece.tufts.edu/ee/201)
+* EE 193 -- Embedded systems
 
-For a full description of these and other courses, see my [teaching page](teaching).
+For a full description of these and other courses I've taught, see my [teaching page](teaching).
 
 # Contact
 
-Halligan Hall 202c
+Halligan Hall 228E
 
 sbell _ ece.tufts.edu
 
-I am on leave for Spring 2020, but I'll generally be on campus one day a week.  You can see when I'll be around on [this calendar](https://calendar.google.com/calendar/embed?src=jqv8i8fejpbggot1r8k7qooqoc%40group.calendar.google.com&ctz=America%2FNew_York); send me an email if you'd like to schedule a meeting.
+For Fall 2020, I will be on campus Mondays and Wednesdays, and available via Zoom the rest of the week.  
+You can see when I'm available on [this calendar](https://calendar.google.com/calendar/embed?src=jqv8i8fejpbggot1r8k7qooqoc%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK); send me an email if you'd like to schedule a meeting.
 
 If you're interested in working in my research lab, [please read this first](working_with_me).
 
 # News
+
+## VHDLweb updates
+This year I rebuilt [VHDLweb](vhdlweb.com) from scratch to improve the user experience and capture more useful data.  I'm now looking for one or two eager students to help analyze all of the data from Spring 2020, with the goal of understanding how students learn VHDL and digital design more generally.  I'm also looking for help adding several new features to VHDLweb.  Get in touch with me if you're interested.
 
 ## Tufts "Teaching with Technology" award
 I received a [2019 Tufts "Teaching with Technology"](https://sites.tufts.edu/ets/2019/05/23/winners-of-the-2019-teaching-with-technology-awards/) award for my work creating [VHDLweb](vhdlweb.com), a tool which lets students write and simulate VHDL code in a web browser.
