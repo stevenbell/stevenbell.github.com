@@ -21,12 +21,11 @@ For a full description of these and other courses I've taught, see my [teaching 
 
 # Contact
 
-Halligan Hall 228E
+Halligan 228D (a few steps down the hall from the 2nd-floor kitchen)
 
 sbell _ ece.tufts.edu
 
-For Fall 2020, I will be on campus Mondays and Wednesdays, and available via Zoom the rest of the week.  
-You can see when I'm available on [this calendar](https://calendar.google.com/calendar/embed?src=jqv8i8fejpbggot1r8k7qooqoc%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK); send me an email if you'd like to schedule a meeting.
+For Fall 2020, I will be on campus Mondays and Wednesdays, and available via Zoom the rest of the week.  You can see when I'm available on [this calendar](https://calendar.google.com/calendar/embed?src=jqv8i8fejpbggot1r8k7qooqoc%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK); send me an email if you'd like to schedule a meeting.
 
 If you're interested in working in my research lab, [please read this first](working_with_me).
 
