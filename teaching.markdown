@@ -2,9 +2,24 @@
 layout: page
 title: Teaching
 ---
+# Spring 2021
+## ES 4 --- Introduction to digital logic circuits
+Today you can find a microprocessor in almost anything electronic, and yet even those of us who can program them often have very little understanding of their inner workings. In ES 4, we will study microprocessors  ---  and digital electronics more generally  ---  from the ground up. From your past courses, you know how computers work at the physical level (voltages and currents) and at the application level (C and other languages); the objective of this course is to connect the dots between the two.
+
+To do this, we begin with the basics of manipulating zeros and ones with circuitry, and start building combinational circuits, which produce outputs based on some mathematical combination of their inputs. Then we make a major turn and explore sequential circuits, which can store information or step through a sequence of states. With these building blocks in hand, we will take a brief look at the ARM instruction set (which powers your cell phone and a few billion other devices), and learn how to build circuits which can actually interpret and execute software instructions.
+
+## ES 2 --- Introduction to computing in engineering
+
+# Fall 2020
+## EN 1 --- Engineering in the kitchen
+In this course, we explore engineering through the lens of food and kitchen gadgets. Although humans have been cooking for millennia, we now have countless electrified gadgets to measure, mash, melt, mix, and microwave our food. During the semester, we will disassemble every kitchen gadget we can get our hands on, learn how they work, and use our newfound skills to build a few of our own. Along the way, you’ll analyze and design basic electrical circuits, program microcontrollers to take measurements and respond to them, and connect the Things you build to the Internet. We’ll also explore some of the complex social and ethical issues at the intersection of technology and food: at what level is it appropriate to ”engineer” our food? Does a cloud-connected refrigerator make us more efficient, or more lazy, or does it just result in more e-waste? And what responsibility do engineers have when working with something so deeply human as food?
+
+## EE 200 --- Accelerated programming for graduate students
+Programming in C and C++ with coverage of data structures (linked lists, binary trees, hash tables, graphs), abstract data types (stacks, queues, maps, sets) and algorithms (sorting, graph search, minimal spanning tree). Efficiency of these structures and algorithms is compared via Big-O analysis. Brief coverage of concurrent (multi-threaded) programming. Object-oriented design: inheritance, templates and virtual methods. Embedded, high-performance and close-to-hardware applications. Defensive coding and use of standard UNIX development tools. 
+
 
 # Spring 2020
-I'm on leave for Spring 2020.  One project I'm working on while I'm away is [VHDLweb](http://vhdlweb.com), a web-based tool for learning VHDL and digital design.
+I was on leave for Spring 2020.  One project I worked on while away is [VHDLweb](http://vhdlweb.com), a web-based tool for learning VHDL and digital design.
 
 # Fall 2019
 
@@ -14,20 +29,14 @@ Modern control and fundamentals of state-feedback including matrix differential 
 ## EE 193 --- Imaging systems: From photons to bits and back
 Cameras and displays may seem straightforward, but it takes an amazing amount of engineering to go from light striking a camera lens to an image on a screen.  We begin this journey by studying the fascinating abilities (and surprising inabilities) of the human visual system and the fundamentals of light and color.  Then we enter the lens of a camera and travel down the image processing pipeline, discussing how pixels are created, processed, and compressed.  Finally, we discuss systems for transmitting and displaying images on screens of all kinds.  Based on this foundation, we conclude with a survey of cutting edge topics in imaging, including computational cameras, image forensics, and virtual reality.
 
-## EE 200 --- Accelerated programming for graduate students
-Programming in C and C++ with coverage of data structures (linked lists, binary trees, hash tables, graphs), abstract data types (stacks, queues, maps, sets) and algorithms (sorting, graph search, minimal spanning tree). Efficiency of these structures and algorithms is compared via Big-O analysis. Brief coverage of concurrent (multi-threaded) programming. Object-oriented design: inheritance, templates and virtual methods. Embedded, high-performance and close-to-hardware applications. Defensive coding and use of standard UNIX development tools. 
-
+I also taught EE 200 --- Accelerated programming for graduate students
 
 # Spring 2019
-
-## ES 4 --- Introduction to digital logic circuits
-Today you can find a microprocessor in almost anything electronic, and yet even those of us who can program them often have very little understanding of their inner workings. In ES 4, we will study microprocessors  ---  and digital electronics more generally  ---  from the ground up. From your past courses, you know how computers work at the physical level (voltages and currents) and at the application level (C and other languages); the objective of this course is to connect the dots between the two.
-
-To do this, we begin with the basics of manipulating zeros and ones with circuitry, and start building combinational circuits, which produce outputs based on some mathematical combination of their inputs. Then we make a major turn and explore sequential circuits, which can store information or step through a sequence of states. With these building blocks in hand, we will take a brief look at the ARM instruction set (which powers your cell phone and a few billion other devices), and learn how to build circuits which can actually interpret and execute software instructions.
 
 ## EE 201 --- Fundamentals of computer systems and engineering
 This course provides a fast-paced introduction to digital systems and computer architecture for graduate students whose undergraduate background did not include this material. We start with the basics of ones and zeros, then move quickly to more complex digital systems and ultimately implement a fully-functional microprocessor using VHDL on an FPGA. Along the way, we explore instruction set architectures and assembly programming, memory and caches, operating systems, and various techniques for interfacing computers to sensors, other computers, and the “real world”.
 
+I also taught ES 4 --- Introduction to digital logic circuits.
 
 # Fall 2018
 
@@ -37,6 +46,6 @@ In Fall 2018, I taught:
 * EE 200 --- Accelerated programming for graduate students
 
 # At Stanford
-I helped to create and teach [ENGR 40M](http://engr40m.stanford.edu), Stanford's new introductory electrical engineering class primarily for non-majors.
+I helped to create and teach ENGR 40M, Stanford's new introductory electrical engineering class primarily for non-majors.
 We broke from the traditional linear circuits pedagogy and arranged the course around a set of four lab projects where students get to build something fun and (maybe) useful: a solar-powered cell phone charger, an electromechanical "useless box", an LED cube, and an electrocardiograph.
 
