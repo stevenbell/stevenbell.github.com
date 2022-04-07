@@ -8,24 +8,25 @@ title: Welcome
 
 I'm an Assistant Teaching Professor in Electrical and Computer Engineering at [Tufts University](http://tufts.edu), where I teach a mix of topics including embedded programming, computer architecture, and imaging systems.
 
-In Spring 2021, I'm teaching:
+In Spring 2022, I'm teaching:
+* [EE 193 -- Advanced Embedded Systems](http://www.ece.tufts.edu/ee/193AES)
 * [ES 2 -- Introduction to computing in engineering](http://www.ece.tufts.edu/es/2)
-* [ES 4 -- Introduction to digital logic circuits](http://www.ece.tufts.edu/es/4)
 
-In Fall 2021, I anticipate teaching:
+In Fall 2022, I will be teaching:
+* [EN 1 -- Engineering in the Kitchen](http://www.ece.tufts.edu/en/1EK)
+* [ES 4 -- Introduction to digital logic circuits](http://www.ece.tufts.edu/es/4)
 * [EE 200 -- Accelerated programming for graduate students](http://www.ece.tufts.edu/ee/200)
-* [EN 1-24 -- Engineering in the Kitchen](http://www.ece.tufts.edu/en/1)
 
 
 For a full description of these and other courses I've taught, see my [teaching page](teaching).
 
 # Contact
 
-Halligan 228D (a few steps down the hall from the 2nd-floor kitchen)
+Halligan 234 (a few steps down the hall from the 2nd-floor kitchen, across the hall from the ECE labs)
 
 sbell _ ece.tufts.edu
 
-For Spring 2021, I will be on campus Mondays and Wednesdays, and available via Zoom the rest of the week.  You can see when I'm available on [this calendar](https://calendar.google.com/calendar/embed?src=jqv8i8fejpbggot1r8k7qooqoc%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK); send me an email if you'd like to schedule a meeting.
+For Spring 2022, I will be on campus Mondays, Tuesdays and Thursdays, and available via Zoom the rest of the week.  You can see when I'm available on [this calendar](https://calendar.google.com/calendar/embed?src=jqv8i8fejpbggot1r8k7qooqoc%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK); send me an email if you'd like to schedule a meeting.
 
 If you're interested in working in my research lab, [please read this first](working_with_me).
 
