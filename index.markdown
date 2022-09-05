@@ -6,17 +6,12 @@ title: Welcome
 
 # Hi, I'm Steven!
 
-I'm an Assistant Teaching Professor in Electrical and Computer Engineering at [Tufts University](http://tufts.edu), where I teach a mix of topics including embedded programming, computer architecture, and imaging systems.
+I'm an Assistant Teaching Professor in Electrical and Computer Engineering at [Tufts University](http://engineering.tufts.edu/ece), where I teach a mix of topics including embedded programming, computer architecture, and imaging systems.
 
-In Spring 2022, I'm teaching:
-* [EE 193 -- Advanced Embedded Systems](http://www.ece.tufts.edu/ee/193AES)
-* [ES 2 -- Introduction to computing in engineering](http://www.ece.tufts.edu/es/2)
-
-In Fall 2022, I will be teaching:
+For Fall 2022, I am teaching:
 * [EN 1 -- Engineering in the Kitchen](http://www.ece.tufts.edu/en/1EK)
 * [ES 4 -- Introduction to digital logic circuits](http://www.ece.tufts.edu/es/4)
 * [EE 200 -- Accelerated programming for graduate students](http://www.ece.tufts.edu/ee/200)
-
 
 For a full description of these and other courses I've taught, see my [teaching page](teaching).
 
@@ -26,7 +21,7 @@ Halligan 234 (a few steps down the hall from the 2nd-floor kitchen, across the h
 
 sbell _ ece.tufts.edu
 
-For Spring 2022, I will be on campus Mondays, Tuesdays and Thursdays, and available via Zoom the rest of the week.  You can see when I'm available on [this calendar](https://calendar.google.com/calendar/embed?src=jqv8i8fejpbggot1r8k7qooqoc%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK); send me an email if you'd like to schedule a meeting.
+For Fall 2022, I will be on campus Monday through Thursday plus an occasional Friday.  You can see when I'm available on [this calendar](https://calendar.google.com/calendar/embed?src=jqv8i8fejpbggot1r8k7qooqoc%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK); send me an email if you'd like to schedule a meeting.
 
 If you're interested in working in my research lab, [please read this first](working_with_me).
 
@@ -34,7 +29,7 @@ If you're interested in working in my research lab, [please read this first](wor
 Ok, "news" is a stretch.  Here are some things I've worked on in the last few years, in addition to teaching my courses:
 
 ## VHDLweb updates
-This year I rebuilt [VHDLweb](vhdlweb.com) from scratch to improve the user experience and capture more useful data.  I'm now looking for one or two eager students to help analyze all of the data from Spring 2020, with the goal of understanding how students learn VHDL and digital design more generally.  I'm also looking for help adding several new features to VHDLweb.  Get in touch with me if you're interested.
+In early 2020 I rebuilt [VHDLweb](vhdlweb.com) from scratch to improve the user experience and capture more useful data.  I'm now looking for one or two eager students to help analyze all of the data from Spring 2020, with the goal of understanding how students learn VHDL and digital design more generally.  I'm also looking for help adding several new features to VHDLweb.  Get in touch with me if you're interested.
 
 ## Tufts "Teaching with Technology" award
 I received a [2019 Tufts "Teaching with Technology"](https://sites.tufts.edu/ets/2019/05/23/winners-of-the-2019-teaching-with-technology-awards/) award for my work creating [VHDLweb](vhdlweb.com), a tool which lets students write and simulate VHDL code in a web browser.

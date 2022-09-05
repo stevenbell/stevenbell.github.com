@@ -2,7 +2,8 @@
 layout: page
 title: Teaching
 ---
-# Spring 2021
+
+# At Tufts
 ## ES 4 --- Introduction to digital logic circuits
 Today you can find a microprocessor in almost anything electronic, and yet even those of us who can program them often have very little understanding of their inner workings. In ES 4, we will study microprocessors  ---  and digital electronics more generally  ---  from the ground up. From your past courses, you know how computers work at the physical level (voltages and currents) and at the application level (C and other languages); the objective of this course is to connect the dots between the two.
 
@@ -10,40 +11,22 @@ To do this, we begin with the basics of manipulating zeros and ones with circuit
 
 ## ES 2 --- Introduction to computing in engineering
 
-# Fall 2020
 ## EN 1 --- Engineering in the kitchen
 In this course, we explore engineering through the lens of food and kitchen gadgets. Although humans have been cooking for millennia, we now have countless electrified gadgets to measure, mash, melt, mix, and microwave our food. During the semester, we will disassemble every kitchen gadget we can get our hands on, learn how they work, and use our newfound skills to build a few of our own. Along the way, you’ll analyze and design basic electrical circuits, program microcontrollers to take measurements and respond to them, and connect the Things you build to the Internet. We’ll also explore some of the complex social and ethical issues at the intersection of technology and food: at what level is it appropriate to ”engineer” our food? Does a cloud-connected refrigerator make us more efficient, or more lazy, or does it just result in more e-waste? And what responsibility do engineers have when working with something so deeply human as food?
 
 ## EE 200 --- Accelerated programming for graduate students
 Programming in C and C++ with coverage of data structures (linked lists, binary trees, hash tables, graphs), abstract data types (stacks, queues, maps, sets) and algorithms (sorting, graph search, minimal spanning tree). Efficiency of these structures and algorithms is compared via Big-O analysis. Brief coverage of concurrent (multi-threaded) programming. Object-oriented design: inheritance, templates and virtual methods. Embedded, high-performance and close-to-hardware applications. Defensive coding and use of standard UNIX development tools. 
 
-
-# Spring 2020
-I was on leave for Spring 2020.  One project I worked on while away is [VHDLweb](http://vhdlweb.com), a web-based tool for learning VHDL and digital design.
-
-# Fall 2019
-
-## EE 105 --- Feedback control systems
-Modern control and fundamentals of state-feedback including matrix differential equations, controllability, state transformations, canonical forms, and control matrix design. Classical control and output-feedback with topics including transfer functions, s-plane analysis, stability criteria, PID controllers, root locus, controller design using op-amps, and compensation networks.
+## EE 201 --- Fundamentals of computer systems and engineering
+This course provides a fast-paced introduction to digital systems and computer architecture for graduate students whose undergraduate background did not include this material. We start with the basics of ones and zeros, then move quickly to more complex digital systems and ultimately implement a fully-functional microprocessor using VHDL on an FPGA. Along the way, we explore instruction set architectures and assembly programming, memory and caches, operating systems, and various techniques for interfacing computers to sensors, other computers, and the “real world”.
 
 ## EE 193 --- Imaging systems: From photons to bits and back
 Cameras and displays may seem straightforward, but it takes an amazing amount of engineering to go from light striking a camera lens to an image on a screen.  We begin this journey by studying the fascinating abilities (and surprising inabilities) of the human visual system and the fundamentals of light and color.  Then we enter the lens of a camera and travel down the image processing pipeline, discussing how pixels are created, processed, and compressed.  Finally, we discuss systems for transmitting and displaying images on screens of all kinds.  Based on this foundation, we conclude with a survey of cutting edge topics in imaging, including computational cameras, image forensics, and virtual reality.
 
-I also taught EE 200 --- Accelerated programming for graduate students
+## EE 105 --- Feedback control systems
+I filled in for one semester while the usual instructor for EE 105 was on leave.
 
-# Spring 2019
-
-## EE 201 --- Fundamentals of computer systems and engineering
-This course provides a fast-paced introduction to digital systems and computer architecture for graduate students whose undergraduate background did not include this material. We start with the basics of ones and zeros, then move quickly to more complex digital systems and ultimately implement a fully-functional microprocessor using VHDL on an FPGA. Along the way, we explore instruction set architectures and assembly programming, memory and caches, operating systems, and various techniques for interfacing computers to sensors, other computers, and the “real world”.
-
-I also taught ES 4 --- Introduction to digital logic circuits.
-
-# Fall 2018
-
-In Fall 2018, I taught:
-
-* EE 193 --- Imaging systems: From photons to bits and back
-* EE 200 --- Accelerated programming for graduate students
+Modern control and fundamentals of state-feedback including matrix differential equations, controllability, state transformations, canonical forms, and control matrix design. Classical control and output-feedback with topics including transfer functions, s-plane analysis, stability criteria, PID controllers, root locus, controller design using op-amps, and compensation networks.
 
 # At Stanford
 I helped to create and teach ENGR 40M, Stanford's new introductory electrical engineering class primarily for non-majors.

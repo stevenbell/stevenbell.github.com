@@ -2,6 +2,18 @@
 layout: page
 title: Code
 ---
+I've got lots of little projects [shared on Github](github.com/stevenbell/); below are brief descriptions of some of the more useful ones.
+
+# animatetiming -- Generate signal propagation diagrams using VHDL+SVG
+[animatetiming on Github](https://github.com/stevenbell/animatetiming)
+
+The original impetus for this project was trying to create an in-class demonstration of why a carry-lookahead adder is faster than a ripple-carry adder.  Animating a circuit of realistic size would have been hopelessly tedious, so I wrote a little Python code to read a VCD file and generate a series of frames using SVG.  Essentially, you define nets as groups in your SVG file and write a short JSON file which maps the VCD net names to SVG group names.  Then the script reads the VCD and colors the SVG accordingly for each timestep.
+
+# csirx -- CSI receiver for Raspberry Pi cameras
+[csirx on Github](https://github.com/stevenbell/csirx)
+
+Xilinx's CSI receiver IP is complex and proprietary, and I needed a simple receiver that would work with the Raspberry Pi camera.  This module does that --- and not much else.  It does have a simple control register which allows it to drop frames and to generate interrupts on frame start/end (both of which are fantastically useful for doing sub-frame synchronization).
+
 # mkpdfs.py -- convert an Inkscape SVG into presentation slides
 [mkpdfs.py](https://gist.github.com/stevenbell/909c79c9396f932942476e658b38d80c) (Github gist)
 
