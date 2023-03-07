@@ -8,7 +8,9 @@ title: Welcome
 
 I'm an Assistant Teaching Professor in Electrical and Computer Engineering at [Tufts University](http://engineering.tufts.edu/ece), where I teach a mix of topics including embedded programming, computer architecture, and imaging systems.
 
-For Fall 2022, I am teaching:
+I'm on parental leave for Spring 2023.  I'm continuing advising and such, but I generally only respond to email every couple days.
+
+For Fall 2023, I anticipate teaching:
 * [EN 1 -- Engineering in the Kitchen](http://www.ece.tufts.edu/en/1EK)
 * [ES 4 -- Introduction to digital logic circuits](http://www.ece.tufts.edu/es/4)
 * [EE 200 -- Accelerated programming for graduate students](http://www.ece.tufts.edu/ee/200)
@@ -17,11 +19,11 @@ For a full description of these and other courses I've taught, see my [teaching 
 
 # Contact
 
-Halligan 234 (a few steps down the hall from the 2nd-floor kitchen, across the hall from the ECE labs)
+CLIC 116 (take the hallway all the way down until you're about to go out the back door; my office is on the right.)
 
 sbell _ ece.tufts.edu
 
-For Fall 2022, I will be on campus Monday through Thursday plus an occasional Friday.  You can see when I'm available on [this calendar](https://calendar.google.com/calendar/embed?src=jqv8i8fejpbggot1r8k7qooqoc%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK); send me an email if you'd like to schedule a meeting.
+If you'd like to schedule a meeting with me, you can see when I'm available on [this calendar](https://calendar.google.com/calendar/embed?src=jqv8i8fejpbggot1r8k7qooqoc%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK); send me an email if you'd like to schedule a meeting.
 
 If you're interested in working in my research lab, [please read this first](working_with_me).
 
