@@ -10,7 +10,7 @@ I'm an Assistant Teaching Professor in Electrical and Computer Engineering at [T
 
 I'm on parental leave for Spring 2023.  I'm continuing advising and such, but I generally only respond to email every couple days.
 
-For Fall 2023, I anticipate teaching:
+For Fall 2023, I will be teaching:
 * [EN 1 -- Engineering in the Kitchen](http://www.ece.tufts.edu/en/1EK)
 * [ES 4 -- Introduction to digital logic circuits](http://www.ece.tufts.edu/es/4)
 * [EE 200 -- Accelerated programming for graduate students](http://www.ece.tufts.edu/ee/200)
@@ -18,8 +18,6 @@ For Fall 2023, I anticipate teaching:
 For a full description of these and other courses I've taught, see my [teaching page](teaching).
 
 # Contact
-
-CLIC 116 (take the hallway all the way down until you're about to go out the back door; my office is on the right.)
 
 sbell _ ece.tufts.edu
 
@@ -29,6 +27,9 @@ If you're interested in working in my research lab, [please read this first](wor
 
 # News
 Ok, "news" is a stretch.  Here are some things I've worked on in the last few years, in addition to teaching my courses:
+
+## ASEE paper on digital labs with $30 FPGAs
+In June 2023 I presented on how we use the low-cost [UPduino](https://tinyvision.ai/products/upduino-v3-1) FPGA in [ES 4](http://www.ece.tufts.edu/es/4/).  An inexpensive breadboardable FPGA maintains the benefits of doing hands-on work with 74-series logic while giving students experience with modern professional tools.  We also build some [pretty cool final projects](http://www.ece.tufts.edu/es/4/past_projects.html)!  You can read the [full paper here](https://nemo.asee.org/public/conferences/327/papers/39742/view).
 
 ## VHDLweb updates
 In early 2020 I rebuilt [VHDLweb](vhdlweb.com) from scratch to improve the user experience and capture more useful data.  I'm now looking for one or two eager students to help analyze all of the data from Spring 2020, with the goal of understanding how students learn VHDL and digital design more generally.  I'm also looking for help adding several new features to VHDLweb.  Get in touch with me if you're interested.
