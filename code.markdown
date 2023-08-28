@@ -9,6 +9,14 @@ I've got lots of little projects [shared on Github](github.com/stevenbell/); bel
 
 The original impetus for this project was trying to create an in-class demonstration of why a carry-lookahead adder is faster than a ripple-carry adder.  Animating a circuit of realistic size would have been hopelessly tedious, so I wrote a little Python code to read a VCD file and generate a series of frames using SVG.  Essentially, you define nets as groups in your SVG file and write a short JSON file which maps the VCD net names to SVG group names.  Then the script reads the VCD and colors the SVG accordingly for each timestep.
 
+# Script to upload QTI to Canvas
+
+[upload_canvas_qti.py](https://gist.github.com/stevenbell/80d5f14b608e3392c068e822da48566d) (Github gist)
+
+This script automates the upload and configuration of a QTI quiz to Canvas.
+
+I use the excellent [text2qti](https://github.com/gpoore/text2qti) tool to  quickly write my course quizzes in a simple text-based format and convert them to QTI which Canvas understands.  Then I wrote the above `upload_canvas_qti` script to push it to Canvas.
+
 # csirx -- CSI receiver for Raspberry Pi cameras
 [csirx on Github](https://github.com/stevenbell/csirx)
 
