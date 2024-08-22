@@ -13,8 +13,24 @@ $basemargin: 1em;
 $basepadding: 0.5em;
 
 // Font definitions
-$font_serif: 'Lora', serif;
-$font_sans: 'Lato';
+$font_serif: 'lora', serif;
+$font_sans: 'lato-bold', sans-serif;
+$font_sans_light: 'lato-light', sans-serif;
+
+@font-face { 
+  font-family: "lato-bold"; 
+  src: url("/assets/fonts/lato-bold-webfont.woff"); 
+} 
+
+@font-face { 
+  font-family: "lato-light"; 
+  src: url("/assets/fonts/lato-light-webfont.woff"); 
+} 
+
+@font-face { 
+  font-family: "lora"; 
+  src: url("/assets/fonts/lora-regular-webfont.woff"); 
+} 
 
 body 	
 {
@@ -62,13 +78,19 @@ hr
   margin-bottom: 1em;
 }
 
+#header
+{
+  position: relative; /* So other elements can be positioned inside this */
+  margin-top: 20px;
+}
+
 #title
 {
   display: inline;
   color: $color_accent;
   font-family: $font_sans;
   font-weight: 700;
-  font-size: 30px;
+  font-size: 32px;
 }
 
 #nav
@@ -76,9 +98,10 @@ hr
   display: inline;
   position: absolute;
   right: 0px;
-  top: 1em; // A hack to roughly align with the title
+  bottom: 0px; // Try to align with the title
   color: $color_offbase2;
-  font-family: $font_sans;
+  font-family: $font_sans_light;
+  font-size: 20px;
 
   a {
     color: $color_offbase2;
@@ -150,8 +173,8 @@ hr
 
 #footer
 {
-  font-size: 10px;
-  font-family: $font_sans;
+  font-size: 12px;
+  font-family: $font_sans_light;
 }
 
 #socialicons

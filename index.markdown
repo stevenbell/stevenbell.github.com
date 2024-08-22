@@ -8,9 +8,9 @@ title: Welcome
 
 I'm an Assistant Teaching Professor in Electrical and Computer Engineering at [Tufts University](http://engineering.tufts.edu/ece), where I teach a mix of topics including embedded programming, computer architecture, and imaging systems.
 
-For Fall 2023, I am teaching:
-* [EN 1 -- Engineering in the Kitchen](http://www.ece.tufts.edu/en/1EK)
+For Fall 2024, I am teaching:
 * [ES 4 -- Introduction to digital logic circuits](http://www.ece.tufts.edu/es/4)
+* [EE 105 -- Feedback Control Systems](http://www.ece.tufts.edu/ee/105)
 * [EE 200 -- Accelerated programming for graduate students](http://www.ece.tufts.edu/ee/200)
 
 For a full description of these and other courses I've taught, see my [teaching page](teaching).
@@ -19,7 +19,7 @@ For a full description of these and other courses I've taught, see my [teaching 
 
 sbell _ ece.tufts.edu
 
-Curtis 001-C [(click here for directions)](http://www.ece.tufts.edu/en/1EK/finding_my_office.html)
+Halligan 112 [(click here for directions)](finding_my_office)
 
 If you'd like to schedule a meeting with me, you can see when I'm available on [this calendar](https://calendar.google.com/calendar/embed?src=jqv8i8fejpbggot1r8k7qooqoc%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK); send me an email if you'd like to schedule a meeting.
 

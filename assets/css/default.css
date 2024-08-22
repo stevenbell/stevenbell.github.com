@@ -1,7 +1,16 @@
+@font-face {
+  font-family: "lato-bold";
+  src: url("/assets/fonts/lato-bold-webfont.woff"); }
+@font-face {
+  font-family: "lato-light";
+  src: url("/assets/fonts/lato-light-webfont.woff"); }
+@font-face {
+  font-family: "lora";
+  src: url("/assets/fonts/lora-regular-webfont.woff"); }
 body {
   background-color: #ffffff;
   color: #202020;
-  font-family: "Lora", serif;
+  font-family: "lora", serif;
   position: relative;
   max-width: 700px;
   margin-left: auto;
@@ -10,11 +19,11 @@ body {
 h1 {
   display: inline;
   color: #b0000e;
-  font-family: "Lato";
+  font-family: "lato-bold", sans-serif;
   font-size: 20px; }
 
 h2 {
-  font-family: "Lato";
+  font-family: "lato-bold", sans-serif;
   font-size: 18px; }
 
 a {
@@ -32,20 +41,26 @@ hr {
   margin-top: 1em;
   margin-bottom: 1em; }
 
+#header {
+  position: relative;
+  /* So other elements can be positioned inside this */
+  margin-top: 20px; }
+
 #title {
   display: inline;
   color: #b0000e;
-  font-family: "Lato";
+  font-family: "lato-bold", sans-serif;
   font-weight: 700;
-  font-size: 30px; }
+  font-size: 32px; }
 
 #nav {
   display: inline;
   position: absolute;
   right: 0px;
-  top: 1em;
+  bottom: 0px;
   color: #505050;
-  font-family: "Lato"; }
+  font-family: "lato-light", sans-serif;
+  font-size: 20px; }
   #nav a {
     color: #505050; }
 
@@ -54,7 +69,7 @@ hr {
   position: absolute;
   right: 0px;
   color: #505050;
-  font-family: "Lato"; }
+  font-family: "lato-bold", sans-serif; }
   #subnav a {
     color: #505050; }
 
@@ -76,12 +91,12 @@ hr {
 
 .postinfo {
   font-size: 12px;
-  font-family: "Lato"; }
+  font-family: "lato-bold", sans-serif; }
 
 #postlinks {
   position: relative;
   font-size: 12px;
-  font-family: "Lato";
+  font-family: "lato-bold", sans-serif;
   height: 1em; }
   #postlinks .previouslink {
     position: absolute;
@@ -91,8 +106,8 @@ hr {
     right: 0px; }
 
 #footer {
-  font-size: 10px;
-  font-family: "Lato"; }
+  font-size: 12px;
+  font-family: "lato-light", sans-serif; }
 
 #socialicons {
   display: inline;
