@@ -8,12 +8,16 @@ title: Welcome
 
 I'm an Assistant Teaching Professor in Electrical and Computer Engineering at [Tufts University](http://engineering.tufts.edu/ece), where I teach a mix of topics including embedded programming, computer architecture, and imaging systems.
 
-For Fall 2024, I am teaching:
-* [ES 4 -- Introduction to digital logic circuits](http://www.ece.tufts.edu/es/4)
-* [EE 105 -- Feedback Control Systems](http://www.ece.tufts.edu/ee/105)
-* [EE 200 -- Accelerated programming for graduate students](http://www.ece.tufts.edu/ee/200)
+For Spring 2025, I am teaching:
+* [EE 14 -- Embedded Systems](http://www.ece.tufts.edu/ee/14)
+* [ES 2 -- Computing for Engineers](http://www.ece.tufts.edu/es/2)
 
 For a full description of these and other courses I've taught, see my [teaching page](teaching).
+
+Office hours:
+
+* Wednesdays 10:30-12pm
+* Fridays 3:30-5pm
 
 # Contact
 
